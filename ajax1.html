@@ -5,36 +5,33 @@
 	<meta charset="utf-8">
 	<title>ajax1</title>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.9/d3.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.js"></script>
+	<link rel="stylesheet" href="ajax1.css">
+	<script src="ajax1.js"></script>
 </head>
 
 <body>
 	<h1>this is javascript</h1>
+	<script>
+		begin()
+	</script>
+	<input type="number" value="0" onchange="begin()" id="change">
+	<select name="name" id="type" onchange="begin()">
+		<option value="rope">rope
+		<option valur="iron">iron
+		<option value="nord">nord
+		<option value="glass">Glass
+		<option value="Dragonplate">Dragonplate
+		<option value="dragonscale">Dragonscale
+		<option value="daedric">daedric
+	</select>
 	<p>text in this area</p>
 	<pre id="response">
 		<table id="table">
 		</table>
 	</pre>
-	<script>
-		var oReq = new XMLHttpRequest();
-		var url = "array.json"
 
-		function fill(arr) {
-			for (var i = 0; i < arr.length; i++) {
-				var row = "";
-				row = '<tr><td>' + arr[i].Name + '</td><td>'+arr[i].Rating+'</td></tr>';
-				$('#table').prepend(row);
-			}
-		}
-
-		oReq.onreadystatechange = function() {
-			if (oReq.readyState == 4 && oReq.status == 200) {
-				var myArr = JSON.parse(oReq.responseText);
-				fill(myArr)
-			}
-		}
-		oReq.open("GET", url, true);
-		oReq.send();
-	</script>
 </body>
 
 </html>

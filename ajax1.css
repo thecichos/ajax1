@@ -1,0 +1,7 @@
+#table tr {
+	border: 1px grey solid;
+}
+#table tr td {
+	padding: 7px;
+	border: 1px grey solid;
+}
