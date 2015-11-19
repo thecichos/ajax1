@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>ajax1</title>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+</head>
+
+<body>
+	<h1>this is javascript</h1>
+	<p>text in this area</p>
+	<pre id="response">
+		<table id="table">
+		</table>
+	</pre>
+	<script>
+		var oReq = new XMLHttpRequest();
+		var url = "array.json"
+
+		function fill(arr) {
+			for (var i = 0; i < arr.length; i++) {
+				var row = "";
+				row = '<tr><td>' + arr[i].Name + '</td><td>'+arr[i].Rating+'</td></tr>';
+				$('#table').prepend(row);
+			}
+		}
+
+		oReq.onreadystatechange = function() {
+			if (oReq.readyState == 4 && oReq.status == 200) {
+				var myArr = JSON.parse(oReq.responseText);
+				fill(myArr)
+			}
+		}
+		oReq.open("GET", url, true);
+		oReq.send();
+	</script>
+</body>
+
+</html>
