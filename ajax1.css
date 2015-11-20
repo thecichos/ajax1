@@ -1,3 +1,20 @@
+html, body {
+	margin: 0%;
+	height: 100%;
+	width: 100%;
+	display: flex;
+}
+#cool {
+	display: block;
+	height: 80%;
+	min-width: 60%;
+	overflow-y: hidden;
+}
+#response {
+	width: 70%;
+	height: 50%;
+	overflow: scroll;
+}
 #table tr {
 	border: 1px grey solid;
 }
@@ -5,6 +22,8 @@
 	padding: 7px;
 	border: 1px grey solid;
 }
-.hidden {
-	visibility: hidden;
+#table tr:hover td{
+	color: white;
+	background: grey;
+	border: 2px black groove;
 }
