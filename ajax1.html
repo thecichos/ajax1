@@ -13,19 +13,49 @@
 
 <body>
 	<h1>this is javascript</h1>
+	<select id="wOa" name="weapon/armor" onchange="begin()">
+		<option value="Armors">Armors
+			<option value="Weapons">Weapons
+	</select>
+	<select name="name" id="typeW" class="Weapons" onchange="begin()">
+		<option valur="Iron">iron</option>
+		<option value="Nord">nord</option>
+		<option value="glass">Glass</option>
+		<option value="Daedric">daedric</option>
+		<option value="Orcish">orchish</option>
+		<option value="Elven">Elven</option>
+		<option value="Dwarven">Dwarven</option>
+		<option value="Steel">Steel</option>
+	</select>
+	<select name="name" id="typeA" class="Armors" onchange="begin()">
+		<option value="Robe">robe</option>
+		<option valur="Iron">iron</option>
+		<option value="Nord">nord</option>
+		<option value="glass">Glass</option>
+		<option value="Dragonscale">Dragonscale</option>
+		<option value="Dragonplate">Dragonplate</option>
+		<option value="Daedric">daedric</option>
+		<option value="Orcish">orchish</option>
+		<option value="Elven">Elven</option>
+		<option value="Dwarven">Dwarven</option>
+		<option value="Steel">Steel</option>
+		<option value="Hide">Hide</option>
+		<option value="Leather">Leather</option>
+		<option value="Scaled">Scaled</option>
+		<option value="Guard">Guard</option>
+	</select>
+	<select id="encha" name="encha" onchange="begin()">
+		</option>
+		<option value="none">none</option>
+		<option value="Alteration">Alteration</option>
+		<option value="Conjuration">Conjuration</option>
+		<option value="Destruction">Destruction</option>
+		<option value="Illusion">Illusion</option>
+		<option value="Restoration">Restoration</option>
+	</select>
 	<script>
 		begin()
 	</script>
-	<input type="number" value="0" onchange="begin()" id="change">
-	<select name="name" id="type" onchange="begin()">
-		<option value="rope">rope
-		<option valur="iron">iron
-		<option value="nord">nord
-		<option value="glass">Glass
-		<option value="Dragonplate">Dragonplate
-		<option value="dragonscale">Dragonscale
-		<option value="daedric">daedric
-	</select>
 	<p>text in this area</p>
 	<pre id="response">
 		<table id="table">

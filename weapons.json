@@ -1,0 +1,7072 @@
+[{
+	"Name": "Alteration Staff ",
+	"Rating": 0
+}, {
+	"Name": "Ancient Nord Battle Axe of Cold ",
+	"Rating": 18
+}, {
+	"Name": "Ancient Nord Battle Axe of Frost ",
+	"Rating": 18
+}, {
+	"Name": "Ancient Nord Battle Axe of Ice ",
+	"Rating": 18
+}, {
+	"Name": "Ancient Nord Greatsword of Cold ",
+	"Rating": 17
+}, {
+	"Name": "Ancient Nord Greatsword of Frost ",
+	"Rating": 17
+}, {
+	"Name": "Ancient Nord Greatsword of Ice ",
+	"Rating": 17
+}, {
+	"Name": "Ancient Nord Sword of Cold ",
+	"Rating": 8
+}, {
+	"Name": "Ancient Nord Sword of Frost ",
+	"Rating": 8
+}, {
+	"Name": "Ancient Nord Sword of Ice ",
+	"Rating": 8
+}, {
+	"Name": "Ancient Nord War Axe of Cold ",
+	"Rating": 9
+}, {
+	"Name": "Ancient Nord War Axe of Cold ",
+	"Rating": 12
+}, {
+	"Name": "Ancient Nord War Axe of Frost ",
+	"Rating": 9
+}, {
+	"Name": "Ancient Nord War Axe of Ice ",
+	"Rating": 9
+}, {
+	"Name": "Blessed Hunting Bow ",
+	"Rating": 7
+}, {
+	"Name": "Blessed Imperial Bow ",
+	"Rating": 9
+}, {
+	"Name": "Blessed Imperial Sword ",
+	"Rating": 8
+}, {
+	"Name": "Blessed Iron Battleaxe ",
+	"Rating": 16
+}, {
+	"Name": "Blessed Iron Dagger ",
+	"Rating": 4
+}, {
+	"Name": "Blessed Iron Greatsword ",
+	"Rating": 15
+}, {
+	"Name": "Blessed Iron Mace ",
+	"Rating": 9
+}, {
+	"Name": "Blessed Iron Sword ",
+	"Rating": 7
+}, {
+	"Name": "Blessed Iron War Axe ",
+	"Rating": 8
+}, {
+	"Name": "Blessed Iron Warhammer ",
+	"Rating": 18
+}, {
+	"Name": "Blessed Steel Battleaxe ",
+	"Rating": 18
+}, {
+	"Name": "Blessed Steel Dagger ",
+	"Rating": 5
+}, {
+	"Name": "Blessed Steel Greatsword ",
+	"Rating": 17
+}, {
+	"Name": "Blessed Steel Mace ",
+	"Rating": 10
+}, {
+	"Name": "Blessed Steel Sword ",
+	"Rating": 8
+}, {
+	"Name": "Blessed Steel War Axe ",
+	"Rating": 9
+}, {
+	"Name": "Blessed Steel Warhammer ",
+	"Rating": 20
+}, {
+	"Name": "Bloodthorn ",
+	"Rating": 5
+}, {
+	"Name": "Bolar's Oathblade ",
+	"Rating": 11
+}, {
+	"Name": "Bow of the Hunt ",
+	"Rating": 10
+}, {
+	"Name": "Briarheart Geis ",
+	"Rating": 12
+}, {
+	"Name": "Broken Staff ",
+	"Rating": 17
+}, {
+	"Name": "Chillrend",
+	"Rating": 10
+}, {
+	"Name": "Chillrend",
+	"Rating": 11
+}, {
+	"Name": "Chillrend",
+	"Rating": 12
+}, {
+	"Name": "Chillrend",
+	"Rating": 13
+}, {
+	"Name": "Chillrend",
+	"Rating": 14
+}, {
+	"Name": "Chillrend",
+	"Rating": 15
+}, {
+	"Name": "Conjuration Staff ",
+	"Rating": 0
+}, {
+	"Name": "Daedric Battleaxe ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Animus ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Annihilating ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Banishing ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Blizzards ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Damnation ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Debilitation ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Depleting ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Despair ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Devouring ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Dread ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Enervating ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Evoking ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Exhaustion ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Expelling ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Fire ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Freezing ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Garnering ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Harvesting ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Immobilizing ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Leeching ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Lethargy ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Lightning ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Malediction ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Nullifying ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Petrifying ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Storms ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Stunning ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Subsuming ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Terror ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of the Blaze ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of the Inferno ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of the Sorcerer ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of the Vampire ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Thunderbolts ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Winnowing ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Battleaxe of Winter ",
+	"Rating": 25
+}, {
+	"Name": "Daedric Bow ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Animus ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Annihilating ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Banishing ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Blizzards ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Damnation ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Debilitation ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Depleting ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Despair ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Dread ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Enervating ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Exhaustion ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Expelling ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Fire ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Freezing ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Immobilizing ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Lethargy ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Lightning ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Malediction ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Nullifying ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Petrifying ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Storms ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Stunning ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Terror ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of the Blaze ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of the Inferno ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Thunderbolts ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Bow of Winter ",
+	"Rating": 19
+}, {
+	"Name": "Daedric Dagger ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Animus ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Annihilating ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Banishing ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Blizzards ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Damnation ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Debilitation ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Depleting ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Despair ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Devouring ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Dread ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Enervating ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Evoking ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Exhaustion ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Expelling ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Fire ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Freezing ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Garnering ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Harvesting ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Immobilizing ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Leeching ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Lethargy ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Lightning ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Malediction ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Nullifying ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Petrifying ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Storms ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Stunning ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Subsuming ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Terror ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of the Blaze ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of the Inferno ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of the Sorcerer ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of the Vampire ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Thunderbolts ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Winnowing ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Dagger of Winter ",
+	"Rating": 11
+}, {
+	"Name": "Daedric Greatsword ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Animus ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Annihilating ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Banishing ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Blizzards ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Damnation ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Debilitation ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Depleting ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Despair ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Devouring ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Dread ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Enervating ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Evoking ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Exhaustion ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Expelling ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Fire ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Freezing ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Garnering ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Harvesting ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Immobilizing ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Leeching ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Lethargy ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Lightning ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Malediction ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Nullifying ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Petrifying ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Storms ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Stunning ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Subsuming ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Terror ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of the Blaze ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of the Inferno ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of the Sorcerer ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of the Vampire ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Thunderbolts ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Winnowing ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Greatsword of Winter ",
+	"Rating": 24
+}, {
+	"Name": "Daedric Mace ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Animus ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Annihilating ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Banishing ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Blizzards ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Damnation ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Debilitation ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Depleting ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Despair ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Devouring ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Dread ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Enervating ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Evoking ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Exhaustion ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Expelling ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Fire ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Freezing ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Garnering ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Harvesting ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Immobilizing ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Leeching ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Lethargy ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Lightning ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Malediction ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Nullifying ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Petrifying ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Storms ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Stunning ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Subsuming ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Terror ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of the Blaze ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of the Inferno ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of the Sorcerer ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of the Vampire ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Thunderbolts ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Winnowing ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Mace of Winter ",
+	"Rating": 16
+}, {
+	"Name": "Daedric Sword ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Animus ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Annihilating ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Banishing ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Blizzards ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Damnation ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Debilitation ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Depleting ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Despair ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Devouring ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Dread ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Enervating ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Evoking ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Exhaustion ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Expelling ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Fire ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Freezing ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Garnering ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Harvesting ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Immobilizing ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Leeching ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Lethargy ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Lightning ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Malediction ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Nullifying ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Petrifying ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Storms ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Stunning ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Subsuming ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Terror ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of the Blaze ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of the Inferno ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of the Sorcerer ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of the Vampire ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Thunderbolts ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Winnowing ",
+	"Rating": 14
+}, {
+	"Name": "Daedric Sword of Winter ",
+	"Rating": 14
+}, {
+	"Name": "Daedric War Axe ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Animus ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Annihilating ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Banishing ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Blizzards ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Damnation ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Debilitation ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Depleting ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Despair ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Devouring ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Dread ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Enervating ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Evoking ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Exhaustion ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Expelling ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Fire ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Freezing ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Garnering ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Harvesting ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Immobilizing ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Leeching ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Lethargy ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Lightning ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Malediction ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Nullifying ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Petrifying ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Storms ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Stunning ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Subsuming ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Terror ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of the Blaze ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of the Inferno ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of the Sorcerer ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of the Vampire ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Thunderbolts ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Winnowing ",
+	"Rating": 15
+}, {
+	"Name": "Daedric War Axe of Winter ",
+	"Rating": 15
+}, {
+	"Name": "Daedric Warhammer ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Animus ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Annihilating ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Banishing ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Blizzards ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Damnation ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Debilitation ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Depleting ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Despair ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Devouring ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Dread ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Enervating ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Evoking ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Exhaustion ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Expelling ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Fire ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Freezing ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Garnering ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Harvesting ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Immobilizing ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Leeching ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Lethargy ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Lightning ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Malediction ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Nullifying ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Petrifying ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Storms ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Stunning ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Subsuming ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Terror ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of the Blaze ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of the Inferno ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of the Sorcerer ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of the Vampire ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Thunderbolts ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Winnowing ",
+	"Rating": 27
+}, {
+	"Name": "Daedric Warhammer of Winter ",
+	"Rating": 27
+}, {
+	"Name": "Dawnbreaker ",
+	"Rating": 12
+}, {
+	"Name": "Destruction Staff ",
+	"Rating": 0
+}, {
+	"Name": "Dragon Priest Staff ",
+	"Rating": 2
+}, {
+	"Name": "Dragon Priest Staff ",
+	"Rating": 0
+}, {
+	"Name": "Dragonbane",
+	"Rating": 10
+}, {
+	"Name": "Dragonbane",
+	"Rating": 11
+}, {
+	"Name": "Dragonbane",
+	"Rating": 12
+}, {
+	"Name": "Dragonbane",
+	"Rating": 13
+}, {
+	"Name": "Dragonbane",
+	"Rating": 14
+}, {
+	"Name": "Drainblood Battleaxe ",
+	"Rating": 21
+}, {
+	"Name": "Drainheart Sword ",
+	"Rating": 11
+}, {
+	"Name": "Drainspell Bow ",
+	"Rating": 14
+}, {
+	"Name": "Dwarven Battleaxe ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Absorption ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Animus ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Arcing ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Binding ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Burning ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Consuming ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Cowardice ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Debilitation ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Depleting ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Despair ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Devouring ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Diminishing ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Draining ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Fear ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Fire ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Freezing ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Frost ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Gleaning ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Harrowing ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Harvesting ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Ice ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Reaping ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Scorching ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Shocks ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Siphoning ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Soul Snares ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Thunderbolts ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Torpor ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Weariness ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Battleaxe of Winnowing ",
+	"Rating": 20
+}, {
+	"Name": "Dwarven Bow ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Animus ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Arcing ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Binding ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Burning ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Cowardice ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Debilitation ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Depleting ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Despair ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Diminishing ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Draining ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Fear ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Flames ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Freezing ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Frost ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Ice ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Scorching ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Shocks ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Soul Snares ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Thunderbolts ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Torpor ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Bow of Weariness ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Dagger ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Absorption ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Animus ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Arcing ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Binding ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Burning ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Consuming ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Cowardice ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Debilitation ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Depleting ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Despair ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Devouring ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Diminishing ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Draining ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Fear ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Flames ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Freezing ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Frost ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Gleaning ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Harrowing ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Harvesting ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Ice ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Reaping ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Scorching ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Shocks ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Siphoning ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Soul Snares ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Thunderbolts ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Torpor ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Weariness ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Dagger of Winnowing ",
+	"Rating": 7
+}, {
+	"Name": "Dwarven Greatsword ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Absorption ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Animus ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Arcing ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Binding ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Burning ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Consuming ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Cowardice ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Debilitation ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Depleting ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Despair ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Devouring ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Diminishing ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Draining ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Fear ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Flames ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Freezing ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Frost ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Gleaning ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Harrowing ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Harvesting ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Ice ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Reaping ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Scorching ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Shocks ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Siphoning ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Soul Snares ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Thunderbolts ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Torpor ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Weariness ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Greatsword of Winnowing ",
+	"Rating": 19
+}, {
+	"Name": "Dwarven Mace ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Absorption ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Animus ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Arcing ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Binding ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Burning ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Consuming ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Cowardice ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Debilitation ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Depleting ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Despair ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Devouring ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Diminishing ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Draining ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Fear ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Flames ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Freezing ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Frost ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Gleaning ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Harrowing ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Harvesting ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Ice ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Reaping ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Scorching ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Shocks ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Siphoning ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Soul Snares ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Thunderbolts ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Torpor ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Weariness ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Mace of Winnowing ",
+	"Rating": 12
+}, {
+	"Name": "Dwarven Sword ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Absorption ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Animus ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Arcing ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Binding ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Burning ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Consuming ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Cowardice ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Debilitation ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Depleting ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Despair ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Devouring ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Diminishing ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Draining ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Fear ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Flames ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Freezing ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Frost ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Gleaning ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Harrowing ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Harvesting ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Ice ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Reaping ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Scorching ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Shocks ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Siphoning ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Soul Snares ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Thunderbolts ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Torpor ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Weariness ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven Sword of Winnowing ",
+	"Rating": 10
+}, {
+	"Name": "Dwarven War Axe ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Absorption ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Animus ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Arcing ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Binding ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Burning ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Consuming ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Cowardice ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Debilitation ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Depleting ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Despair ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Devouring ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Diminishing ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Draining ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Fear ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Flames ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Freezing ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Frost ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Gleaning ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Harrowing ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Harvesting ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Ice ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Reaping ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Scorching ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Shocks ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Siphoning ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Soul Snares ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Thunderbolts ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Torpor ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Weariness ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven War Axe of Winnowing ",
+	"Rating": 11
+}, {
+	"Name": "Dwarven Warhammer ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Absorption ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Animus ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Arcing ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Binding ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Burning ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Consuming ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Cowardice ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Debilitation ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Depleting ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Despair ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Devouring ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Diminishing ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Draining ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Fear ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Flames ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Freezing ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Frost ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Gleaning ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Harrowing ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Harvesting ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Ice ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Reaping ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Scorching ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Shocks ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Siphoning ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Soul Snares ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Thunderbolts ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Torpor ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Weariness ",
+	"Rating": 22
+}, {
+	"Name": "Dwarven Warhammer of Winnowing ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Battleaxe ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Animus ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Annihilating ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Banishing ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Blizzards ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Damnation ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Debilitation ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Depleting ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Despair ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Devouring ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Dread ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Enervating ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Evoking ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Exhaustion ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Expelling ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Fire ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Freezing ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Garnering ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Harvesting ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Immobilizing ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Leeching ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Lethargy ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Lightning ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Malediction ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Nullifying ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Petrifying ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Storms ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Stunning ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Subsuming ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Terror ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of the Blaze ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of the Inferno ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of the Sorcerer ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of the Vampire ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Thunderbolts ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Winnowing ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Battleaxe of Winter ",
+	"Rating": 23
+}, {
+	"Name": "Ebony Blade ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Blade ",
+	"Rating": 11
+}, {
+	"Name": "Ebony Bow ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Animus ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Annihilating ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Banishing ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Blizzards ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Damnation ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Debilitation ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Depleting ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Despair ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Dread ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Enervating ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Exhaustion ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Expelling ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Fire ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Freezing ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Immobilizing ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Lethargy ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Lightning ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Malediction ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Nullifying ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Petrifying ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Storms ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Stunning ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Terror ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of the Blaze ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of the Inferno ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Thunderbolts ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Bow of Winter ",
+	"Rating": 17
+}, {
+	"Name": "Ebony Dagger ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Animus ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Annihilating ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Banishing ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Blizzards ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Damnation ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Debilitation ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Depleting ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Despair ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Devouring ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Dread ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Enervating ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Evoking ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Exhaustion ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Expelling ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Fire ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Freezing ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Garnering ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Harvesting ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Immobilizing ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Leeching ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Lethargy ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Lightning ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Malediction ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Nullifying ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Petrifying ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Storms ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Stunning ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Subsuming ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Terror ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of the Blaze ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of the Inferno ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of the Sorcerer ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of the Vampire ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Thunderbolts ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Winnowing ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Dagger of Winter ",
+	"Rating": 10
+}, {
+	"Name": "Ebony Greatsword ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Animus ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Annihilating ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Banishing ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Blizzards ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Damnation ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Debilitation ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Depleting ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Despair ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Devouring ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Dread ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Enervating ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Evoking ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Exhaustion ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Expelling ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Fire ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Freezing ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Garnering ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Harvesting ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Immobilizing ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Leeching ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Lethargy ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Lightning ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Malediction ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Nullifying ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Petrifying ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Storms ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Stunning ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Subsuming ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Terror ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of the Blaze ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of the Inferno ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of the Sorcerer ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of the Vampire ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Thunderbolts ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Winnowing ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Greatsword of Winter ",
+	"Rating": 22
+}, {
+	"Name": "Ebony Mace ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Animus ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Annihilating ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Banishing ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Blizzards ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Damnation ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Debilitation ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Depleting ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Despair ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Devouring ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Dread ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Enervating ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Evoking ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Exhaustion ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Expelling ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Fire ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Freezing ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Garnering ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Harvesting ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Immobilizing ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Leeching ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Lethargy ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Lightning ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Malediction ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Nullifying ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Petrifying ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Storms ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Stunning ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Subsuming ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Terror ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of the Blaze ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of the Inferno ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of the Sorcerer ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of the Vampire ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Thunderbolts ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Winnowing ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Mace of Winter ",
+	"Rating": 16
+}, {
+	"Name": "Ebony Sword ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Animus ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Annihilating ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Banishing ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Blizzards ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Damnation ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Debilitation ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Depleting ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Despair ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Devouring ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Dread ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Enervating ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Evoking ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Exhaustion ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Expelling ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Fire ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Freezing ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Garnering ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Harvesting ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Immobilizing ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Leeching ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Lethargy ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Lightning ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Malediction ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Nullifying ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Petrifying ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Storms ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Stunning ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Subsuming ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Terror ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of the Blaze ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of the Inferno ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of the Sorcerer ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of the Vampire ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Thunderbolts ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Winnowing ",
+	"Rating": 13
+}, {
+	"Name": "Ebony Sword of Winter ",
+	"Rating": 13
+}, {
+	"Name": "Ebony War Axe ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Animus ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Annihilating ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Banishing ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Blizzards ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Damnation ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Debilitation ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Depleting ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Despair ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Devouring ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Dread ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Enervating ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Evoking ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Exhaustion ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Expelling ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Fire ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Freezing ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Garnering ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Harvesting ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Immobilizing ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Leeching ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Lethargy ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Lightning ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Malediction ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Nullifying ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Petrifying ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Storms ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Stunning ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Subsuming ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Terror ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of the Blaze ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of the Inferno ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of the Sorcerer ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of the Vampire ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Thunderbolts ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Winnowing ",
+	"Rating": 15
+}, {
+	"Name": "Ebony War Axe of Winter ",
+	"Rating": 15
+}, {
+	"Name": "Ebony Warhammer ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Animus ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Annihilating ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Banishing ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Blizzards ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Damnation ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Debilitation ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Depleting ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Despair ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Devouring ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Dread ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Enervating ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Evoking ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Exhaustion ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Expelling ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Fire ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Freezing ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Garnering ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Harvesting ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Immobilizing ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Leeching ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Lethargy ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Lightning ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Malediction ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Nullifying ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Petrifying ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Storms ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Stunning ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Subsuming ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Terror ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of the Blaze ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of the Inferno ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of the Sorcerer ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of the Vampire ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Thunderbolts ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Winnowing ",
+	"Rating": 25
+}, {
+	"Name": "Ebony Warhammer of Winter ",
+	"Rating": 25
+}, {
+	"Name": "Eduj ",
+	"Rating": 11
+}, {
+	"Name": "Elven Battleaxe ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Animus ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Banishing ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Binding ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Blizzards ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Consuming ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Debilitation ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Depleting ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Despair ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Devouring ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Diminishing ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Dread ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Enervating ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Evoking ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Expelling ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Fear ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Fire ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Freezing ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Garnering ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Harrowing ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Harvesting ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Ice ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Immobilizing ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Leeching ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Lethargy ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Lightning ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Malediction ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Reaping ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Scorching ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Shocks ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Stunning ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of the Blaze ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Thunderbolts ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Torpor ",
+	"Rating": 21
+}, {
+	"Name": "Elven Battleaxe of Winnowing ",
+	"Rating": 21
+}, {
+	"Name": "Elven Bow ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Animus ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Banishing ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Binding ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Blizzards ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Debilitation ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Depleting ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Despair ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Diminishing ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Dread ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Enervating ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Expelling ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Fear ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Fire ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Freezing ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Ice ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Immobilizing ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Lethargy ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Lightning ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Malediction ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Scorching ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Shocks ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Stunning ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of the Blaze ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Thunderbolts ",
+	"Rating": 13
+}, {
+	"Name": "Elven Bow of Torpor ",
+	"Rating": 13
+}, {
+	"Name": "Elven Dagger ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Animus ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Banishing ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Binding ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Blizzards ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Consuming ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Debilitation ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Depleting ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Despair ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Devouring ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Diminishing ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Dread ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Enervating ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Evoking ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Expelling ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Fear ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Fire ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Freezing ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Garnering ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Harrowing ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Harvesting ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Ice ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Immobilizing ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Leeching ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Lethargy ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Lightning ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Malediction ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Reaping ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Scorching ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Shocks ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Stunning ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of the Blaze ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Thunderbolts ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Torpor ",
+	"Rating": 8
+}, {
+	"Name": "Elven Dagger of Winnowing ",
+	"Rating": 8
+}, {
+	"Name": "Elven Greatsword ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Animus ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Banishing ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Binding ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Blizzards ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Consuming ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Debilitation ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Depleting ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Despair ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Devouring ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Diminishing ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Dread ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Enervating ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Evoking ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Expelling ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Fear ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Fire ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Freezing ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Garnering ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Harrowing ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Harvesting ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Ice ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Immobilizing ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Leeching ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Lethargy ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Lightning ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Malediction ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Reaping ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Scorching ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Shocks ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Stunning ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of the Blaze ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Thunderbolts ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Torpor ",
+	"Rating": 20
+}, {
+	"Name": "Elven Greatsword of Winnowing ",
+	"Rating": 20
+}, {
+	"Name": "Elven Mace ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Animus ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Banishing ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Binding ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Blizzards ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Consuming ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Debilitation ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Depleting ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Despair ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Devouring ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Diminishing ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Dread ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Enervating ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Evoking ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Expelling ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Fear ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Fire ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Freezing ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Garnering ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Harrowing ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Harvesting ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Ice ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Immobilizing ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Leeching ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Lethargy ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Lightning ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Malediction ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Reaping ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Scorching ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Shocks ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Stunning ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of the Blaze ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Thunderbolts ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Torpor ",
+	"Rating": 13
+}, {
+	"Name": "Elven Mace of Winnowing ",
+	"Rating": 13
+}, {
+	"Name": "Elven Sword ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Animus ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Banishing ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Binding ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Blizzards ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Consuming ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Debilitation ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Depleting ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Despair ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Devouring ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Diminishing ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Dread ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Enervating ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Evoking ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Expelling ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Fear ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Fire ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Freezing ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Garnering ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Harrowing ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Harvesting ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Ice ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Immobilizing ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Leeching ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Lethargy ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Lightning ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Malediction ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Reaping ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Scorching ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Shocks ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Stunning ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of the Blaze ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Thunderbolts ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Torpor ",
+	"Rating": 11
+}, {
+	"Name": "Elven Sword of Winnowing ",
+	"Rating": 11
+}, {
+	"Name": "Elven War Axe ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Animus ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Banishing ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Binding ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Blizzards ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Consuming ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Debilitation ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Depleting ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Despair ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Devouring ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Diminishing ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Dread ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Enervating ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Evoking ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Expelling ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Fear ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Fire ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Freezing ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Garnering ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Harrowing ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Harvesting ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Ice ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Immobilizing ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Leeching ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Lethargy ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Lightning ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Malediction ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Reaping ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Scorching ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Shocks ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Stunning ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of the Blaze ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Thunderbolts ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Torpor ",
+	"Rating": 12
+}, {
+	"Name": "Elven War Axe of Winnowing ",
+	"Rating": 12
+}, {
+	"Name": "Elven Warhammer ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Animus ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Banishing ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Binding ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Blizzards ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Consuming ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Debilitation ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Depleting ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Despair ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Devouring ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Diminishing ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Dread ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Enervating ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Evoking ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Expelling ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Fear ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Fire ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Freezing ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Garnering ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Harrowing ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Harvesting ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Ice ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Immobilizing ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Leeching ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Lethargy ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Lightning ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Malediction ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Reaping ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Scorching ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Shocks ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Stunning ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of the Blaze ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Thunderbolts ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Torpor ",
+	"Rating": 23
+}, {
+	"Name": "Elven Warhammer of Winnowing ",
+	"Rating": 23
+}, {
+	"Name": "Eye of Melka ",
+	"Rating": 0
+}, {
+	"Name": "Fork ",
+	"Rating": 1
+}, {
+	"Name": "Forsworn Staff ",
+	"Rating": 0
+}, {
+	"Name": "Forsworn Staff ",
+	"Rating": 0
+}, {
+	"Name": "Froki's Bow ",
+	"Rating": 6
+}, {
+	"Name": "Gadnor's Staff of Charming ",
+	"Rating": 0
+}, {
+	"Name": "Gauldur Blackblade",
+	"Rating": 8
+}, {
+	"Name": "Gauldur Blackblade",
+	"Rating": 8
+}, {
+	"Name": "Gauldur Blackblade",
+	"Rating": 11
+}, {
+	"Name": "Gauldur Blackblade",
+	"Rating": 11
+}, {
+	"Name": "Gauldur Blackblade",
+	"Rating": 11
+}, {
+	"Name": "Gauldur Blackbow",
+	"Rating": 8
+}, {
+	"Name": "Gauldur Blackbow",
+	"Rating": 8
+}, {
+	"Name": "Gauldur Blackbow",
+	"Rating": 14
+}, {
+	"Name": "Gauldur Blackbow",
+	"Rating": 14
+}, {
+	"Name": "Gauldur Blackbow",
+	"Rating": 14
+}, {
+	"Name": "Ghostblade ",
+	"Rating": 8
+}, {
+	"Name": "Giant Club ",
+	"Rating": 5
+}, {
+	"Name": "Giant Club ",
+	"Rating": 60
+}, {
+	"Name": "Giant Club ",
+	"Rating": 40
+}, {
+	"Name": "Glass Battleaxe ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Animus ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Banishing ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Binding ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Blizzards ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Consuming ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Debilitation ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Depleting ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Despair ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Devouring ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Diminishing ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Dread ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Enervating ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Evoking ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Expelling ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Fear ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Fire ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Freezing ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Garnering ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Harrowing ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Harvesting ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Ice ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Immobilizing ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Leeching ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Lethargy ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Lightning ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Malediction ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Reaping ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Scorching ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Shocks ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Stunning ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of the Blaze ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Thunderbolts ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Torpor ",
+	"Rating": 22
+}, {
+	"Name": "Glass Battleaxe of Winnowing ",
+	"Rating": 22
+}, {
+	"Name": "Glass Bow ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Animus ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Banishing ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Binding ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Blizzards ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Debilitation ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Depleting ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Despair ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Diminishing ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Dread ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Enervating ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Expelling ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Fear ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Fire ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Freezing ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Ice ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Immobilizing ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Lethargy ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Lightning ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Malediction ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Scorching ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Shocks ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Stunning ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of the Blaze ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Thunderbolts ",
+	"Rating": 15
+}, {
+	"Name": "Glass Bow of Torpor ",
+	"Rating": 15
+}, {
+	"Name": "Glass Dagger ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Animus ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Banishing ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Binding ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Blizzards ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Consuming ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Debilitation ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Depleting ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Despair ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Devouring ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Diminishing ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Dread ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Enervating ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Evoking ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Expelling ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Fear ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Fire ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Freezing ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Garnering ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Harrowing ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Harvesting ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Ice ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Immobilizing ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Leeching ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Lethargy ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Lightning ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Malediction ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Reaping ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Scorching ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Shocks ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Stunning ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of the Blaze ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Thunderbolts ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Torpor ",
+	"Rating": 9
+}, {
+	"Name": "Glass Dagger of Winnowing ",
+	"Rating": 9
+}, {
+	"Name": "Glass Greatsword ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Animus ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Banishing ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Binding ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Blizzards ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Consuming ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Debilitation ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Depleting ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Despair ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Devouring ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Dread ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Enervating ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Evoking ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Expelling ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Fear ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Fire ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Freezing ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Garnering ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Harrowing ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Harvesting ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Ice ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Immobilizing ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Leeching ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Lethargy ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Lightning ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Malediction ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Reaping ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Scorching ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Shocks ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Stunning ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of the Blaze ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Thunderbolts ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Torpor ",
+	"Rating": 21
+}, {
+	"Name": "Glass Greatsword of Winnowing ",
+	"Rating": 21
+}, {
+	"Name": "Glass Mace ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Animus ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Banishing ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Binding ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Blizzards ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Consuming ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Debilitation ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Depleting ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Despair ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Devouring ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Dread ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Enervating ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Evoking ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Expelling ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Fear ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Fire ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Freezing ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Garnering ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Harrowing ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Harvesting ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Ice ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Immobilizing ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Leeching ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Lethargy ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Lightning ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Malediction ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Reaping ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Scorching ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Shocks ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Stunning ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of the Blaze ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Thunderbolts ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Torpor ",
+	"Rating": 14
+}, {
+	"Name": "Glass Mace of Winnowing ",
+	"Rating": 14
+}, {
+	"Name": "Glass Sword ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Animus ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Banishing ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Binding ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Blizzards ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Consuming ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Debilitation ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Depleting ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Despair ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Devouring ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Dread ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Enervating ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Evoking ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Expelling ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Fear ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Fire ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Freezing ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Garnering ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Harrowing ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Harvesting ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Ice ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Immobilizing ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Leeching ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Lethargy ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Lightning ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Malediction ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Reaping ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Scorching ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Shocks ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Stunning ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of the Blaze ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Thunderbolts ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Torpor ",
+	"Rating": 12
+}, {
+	"Name": "Glass Sword of Winnowing ",
+	"Rating": 12
+}, {
+	"Name": "Glass War Axe ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Animus ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Banishing ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Binding ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Blizzards ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Consuming ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Debilitation ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Depleting ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Despair ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Devouring ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Dread ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Enervating ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Evoking ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Expelling ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Fear ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Fire ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Freezing ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Garnering ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Harrowing ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Harvesting ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Ice ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Immobilizing ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Leeching ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Lethargy ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Lightning ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Malediction ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Reaping ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Scorching ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Shocks ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Stunning ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of the Blaze ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Thunderbolts ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Torpor ",
+	"Rating": 13
+}, {
+	"Name": "Glass War Axe of Winnowing ",
+	"Rating": 13
+}, {
+	"Name": "Glass Warhammer ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Animus ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Banishing ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Binding ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Blizzards ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Consuming ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Debilitation ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Depleting ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Despair ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Devouring ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Dread ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Enervating ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Evoking ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Expelling ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Fear ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Fire ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Freezing ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Garnering ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Harrowing ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Harvesting ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Ice ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Immobilizing ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Leeching ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Lethargy ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Lightning ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Malediction ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Reaping ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Scorching ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Shocks ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Stunning ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of the Blaze ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Thunderbolts ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Torpor ",
+	"Rating": 24
+}, {
+	"Name": "Glass Warhammer of Winnowing ",
+	"Rating": 24
+}, {
+	"Name": "Grand Staff of Charming ",
+	"Rating": 0
+}, {
+	"Name": "Grand Staff of Repulsion ",
+	"Rating": 0
+}, {
+	"Name": "Grand Staff of Turning ",
+	"Rating": 0
+}, {
+	"Name": "Halldir's Staff ",
+	"Rating": 17
+}, {
+	"Name": "Hallowed Daedric Battleaxe ",
+	"Rating": 25
+}, {
+	"Name": "Hallowed Daedric Bow ",
+	"Rating": 19
+}, {
+	"Name": "Hallowed Daedric Dagger ",
+	"Rating": 11
+}, {
+	"Name": "Hallowed Daedric Greatsword ",
+	"Rating": 24
+}, {
+	"Name": "Hallowed Daedric Mace ",
+	"Rating": 16
+}, {
+	"Name": "Hallowed Daedric Sword ",
+	"Rating": 14
+}, {
+	"Name": "Hallowed Daedric War Axe ",
+	"Rating": 15
+}, {
+	"Name": "Hallowed Daedric Warhammer ",
+	"Rating": 27
+}, {
+	"Name": "Hallowed Dwarven Battleaxe ",
+	"Rating": 20
+}, {
+	"Name": "Hallowed Dwarven Bow ",
+	"Rating": 12
+}, {
+	"Name": "Hallowed Dwarven Dagger ",
+	"Rating": 7
+}, {
+	"Name": "Hallowed Dwarven Greatsword ",
+	"Rating": 19
+}, {
+	"Name": "Hallowed Dwarven Mace ",
+	"Rating": 12
+}, {
+	"Name": "Hallowed Dwarven Sword ",
+	"Rating": 10
+}, {
+	"Name": "Hallowed Dwarven War Axe ",
+	"Rating": 11
+}, {
+	"Name": "Hallowed Dwarven Warhammer ",
+	"Rating": 22
+}, {
+	"Name": "Hallowed Ebony Battleaxe ",
+	"Rating": 23
+}, {
+	"Name": "Hallowed Ebony Bow ",
+	"Rating": 17
+}, {
+	"Name": "Hallowed Ebony Dagger ",
+	"Rating": 10
+}, {
+	"Name": "Hallowed Ebony Greatsword ",
+	"Rating": 22
+}, {
+	"Name": "Hallowed Ebony Mace ",
+	"Rating": 16
+}, {
+	"Name": "Hallowed Ebony Sword ",
+	"Rating": 13
+}, {
+	"Name": "Hallowed Ebony War Axe ",
+	"Rating": 15
+}, {
+	"Name": "Hallowed Ebony Warhammer ",
+	"Rating": 25
+}, {
+	"Name": "Hallowed Elven Battleaxe ",
+	"Rating": 21
+}, {
+	"Name": "Hallowed Elven Bow ",
+	"Rating": 13
+}, {
+	"Name": "Hallowed Elven Dagger ",
+	"Rating": 8
+}, {
+	"Name": "Hallowed Elven Greatsword ",
+	"Rating": 20
+}, {
+	"Name": "Hallowed Elven Mace ",
+	"Rating": 13
+}, {
+	"Name": "Hallowed Elven Sword ",
+	"Rating": 11
+}, {
+	"Name": "Hallowed Elven War Axe ",
+	"Rating": 12
+}, {
+	"Name": "Hallowed Elven Warhammer ",
+	"Rating": 23
+}, {
+	"Name": "Hallowed Glass Battleaxe ",
+	"Rating": 22
+}, {
+	"Name": "Hallowed Glass Bow ",
+	"Rating": 15
+}, {
+	"Name": "Hallowed Glass Dagger ",
+	"Rating": 9
+}, {
+	"Name": "Hallowed Glass Greatsword ",
+	"Rating": 21
+}, {
+	"Name": "Hallowed Glass Mace ",
+	"Rating": 14
+}, {
+	"Name": "Hallowed Glass Sword ",
+	"Rating": 12
+}, {
+	"Name": "Hallowed Glass War Axe ",
+	"Rating": 13
+}, {
+	"Name": "Hallowed Glass Warhammer ",
+	"Rating": 24
+}, {
+	"Name": "Hallowed Orcish Battleaxe ",
+	"Rating": 19
+}, {
+	"Name": "Hallowed Orcish Bow ",
+	"Rating": 10
+}, {
+	"Name": "Hallowed Orcish Dagger ",
+	"Rating": 6
+}, {
+	"Name": "Hallowed Orcish Greatsword ",
+	"Rating": 18
+}, {
+	"Name": "Hallowed Orcish Mace ",
+	"Rating": 11
+}, {
+	"Name": "Hallowed Orcish Sword ",
+	"Rating": 9
+}, {
+	"Name": "Hallowed Orcish War Axe ",
+	"Rating": 10
+}, {
+	"Name": "Hallowed Orcish Warhammer ",
+	"Rating": 21
+}, {
+	"Name": "Headsman's Axe",
+	"Rating": 17
+}, {
+	"Name": "Hevnoraak's Staff ",
+	"Rating": 0
+}, {
+	"Name": "Holy Daedric Battleaxe ",
+	"Rating": 25
+}, {
+	"Name": "Holy Daedric Bow ",
+	"Rating": 19
+}, {
+	"Name": "Holy Daedric Dagger ",
+	"Rating": 11
+}, {
+	"Name": "Holy Daedric Greatsword ",
+	"Rating": 24
+}, {
+	"Name": "Holy Daedric Mace ",
+	"Rating": 16
+}, {
+	"Name": "Holy Daedric Sword ",
+	"Rating": 14
+}, {
+	"Name": "Holy Daedric War Axe ",
+	"Rating": 15
+}, {
+	"Name": "Holy Daedric Warhammer ",
+	"Rating": 27
+}, {
+	"Name": "Holy Ebony Battleaxe ",
+	"Rating": 23
+}, {
+	"Name": "Holy Ebony Bow ",
+	"Rating": 17
+}, {
+	"Name": "Holy Ebony Dagger ",
+	"Rating": 10
+}, {
+	"Name": "Holy Ebony Greatsword ",
+	"Rating": 22
+}, {
+	"Name": "Holy Ebony Mace ",
+	"Rating": 16
+}, {
+	"Name": "Holy Ebony Sword ",
+	"Rating": 13
+}, {
+	"Name": "Holy Ebony War Axe ",
+	"Rating": 15
+}, {
+	"Name": "Holy Ebony Warhammer ",
+	"Rating": 25
+}, {
+	"Name": "Honed Ancient Nord Battle Axe of Cold ",
+	"Rating": 21
+}, {
+	"Name": "Honed Ancient Nord Battle Axe of Frost ",
+	"Rating": 21
+}, {
+	"Name": "Honed Ancient Nord Battle Axe of Ice ",
+	"Rating": 21
+}, {
+	"Name": "Honed Ancient Nord Greatsword of Burning ",
+	"Rating": 20
+}, {
+	"Name": "Honed Ancient Nord Greatsword of Cold ",
+	"Rating": 20
+}, {
+	"Name": "Honed Ancient Nord Greatsword of Frost ",
+	"Rating": 20
+}, {
+	"Name": "Honed Ancient Nord Greatsword of Ice ",
+	"Rating": 20
+}, {
+	"Name": "Honed Ancient Nord Greatsword of Scorching ",
+	"Rating": 20
+}, {
+	"Name": "Honed Ancient Nord Sword of Cold ",
+	"Rating": 11
+}, {
+	"Name": "Honed Ancient Nord Sword of Frost ",
+	"Rating": 11
+}, {
+	"Name": "Honed Ancient Nord Sword of Ice ",
+	"Rating": 11
+}, {
+	"Name": "Honed Ancient Nord War Axe of Frost ",
+	"Rating": 12
+}, {
+	"Name": "Honed Ancient Nord War Axe of Ice ",
+	"Rating": 12
+}, {
+	"Name": "Hunting Bow ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Arcing ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Binding ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Burning ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Chills ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Cowardice ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Diminishing ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Dismay ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Draining ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Embers ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Fatigue ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Fear ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Frost ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Ice ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Sapping ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Scorching ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Shocks ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Soul Snares ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Souls ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Sparks ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Torpor ",
+	"Rating": 7
+}, {
+	"Name": "Hunting Bow of Weariness ",
+	"Rating": 7
+}, {
+	"Name": "Illusion Staff ",
+	"Rating": 0
+}, {
+	"Name": "Imperial Bow of Arcing ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Binding ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Burning ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Chills ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Cowardice ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Diminishing ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Dismay ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Draining ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Embers ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Fatigue ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Fear ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Frost ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Ice ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Sapping ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Scorching ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Shocks ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Soul Snares ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Souls ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Sparks ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Torpor ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Bow of Weariness ",
+	"Rating": 9
+}, {
+	"Name": "Imperial Sword of Arcing ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Binding ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Burning ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Cold ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Cowardice ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Diminishing ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Dismay ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Draining ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Embers ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Fatigue ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Fear ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Frost ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Ice ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Sapping ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Scorching ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Shocks ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Soul Snares ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Souls ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Sparks ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Torpor ",
+	"Rating": 8
+}, {
+	"Name": "Imperial Sword of Weariness ",
+	"Rating": 8
+}, {
+	"Name": "Iron Battleaxe ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Arcing ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Binding ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Burning ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Chills ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Cowardice ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Diminishing ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Dismay ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Draining ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Embers ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Fatigue ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Fear ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Frost ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Ice ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Sapping ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Scorching ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Shocks ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Soul Snares ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Souls ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Sparks ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Torpor ",
+	"Rating": 16
+}, {
+	"Name": "Iron Battleaxe of Weariness ",
+	"Rating": 16
+}, {
+	"Name": "Iron Dagger ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Arcing ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Binding ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Burning ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Chills ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Cowardice ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Diminishing ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Dismay ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Draining ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Embers ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Fatigue ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Fear ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Frost ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Ice ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Sapping ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Scorching ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Shocks ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Soul Snares ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Souls ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Sparks ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Torpor ",
+	"Rating": 4
+}, {
+	"Name": "Iron Dagger of Weariness ",
+	"Rating": 4
+}, {
+	"Name": "Iron Greatsword ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Arcing ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Binding ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Burning ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Chills ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Cowardice ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Diminishing ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Dismay ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Draining ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Embers ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Fatigue ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Fear ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Frost ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Ice ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Sapping ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Scorching ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Shocks ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Soul Snares ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Souls ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Sparks ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Torpor ",
+	"Rating": 15
+}, {
+	"Name": "Iron Greatsword of Weariness ",
+	"Rating": 15
+}, {
+	"Name": "Iron Mace ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Arcing ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Binding ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Burning ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Chills ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Cowardice ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Diminishing ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Dismay ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Draining ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Embers ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Fatigue ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Fear ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Frost ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Ice ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Sapping ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Scorching ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Shocks ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Soul Snares ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Souls ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Sparks ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Torpor ",
+	"Rating": 9
+}, {
+	"Name": "Iron Mace of Weariness ",
+	"Rating": 9
+}, {
+	"Name": "Iron Sword ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Arcing ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Binding ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Burning ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Cold ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Cowardice ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Diminishing ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Dismay ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Draining ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Embers ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Fatigue ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Fear ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Frost ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Ice ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Sapping ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Scorching ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Shocks ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Soul Snares ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Souls ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Sparks ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Torpor ",
+	"Rating": 7
+}, {
+	"Name": "Iron Sword of Weariness ",
+	"Rating": 7
+}, {
+	"Name": "Iron War Axe ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Arcing ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Binding ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Burning ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Cold ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Cowardice ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Diminishing ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Dismay ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Draining ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Embers ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Fatigue ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Fear ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Frost ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Ice ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Sapping ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Scorching ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Shocks ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Soul Snares ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Souls ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Sparks ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Torpor ",
+	"Rating": 8
+}, {
+	"Name": "Iron War Axe of Weariness ",
+	"Rating": 8
+}, {
+	"Name": "Iron Warhammer ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Arcing ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Binding ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Burning ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Chills ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Cowardice ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Diminishing ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Dismay ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Draining ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Embers ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Fatigue ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Fear ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Frost ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Ice ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Sapping ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Scorching ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Shocks ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Soul Snares ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Souls ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Sparks ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Torpor ",
+	"Rating": 18
+}, {
+	"Name": "Iron Warhammer of Weariness ",
+	"Rating": 18
+}, {
+	"Name": "Keening ",
+	"Rating": 8
+}, {
+	"Name": "Knife ",
+	"Rating": 2
+}, {
+	"Name": "Long Bow ",
+	"Rating": 6
+}, {
+	"Name": "Lunar Iron Mace",
+	"Rating": 9
+}, {
+	"Name": "Lunar Iron Mace",
+	"Rating": 9
+}, {
+	"Name": "Lunar Iron Mace",
+	"Rating": 9
+}, {
+	"Name": "Lunar Iron Sword",
+	"Rating": 7
+}, {
+	"Name": "Lunar Iron Sword",
+	"Rating": 7
+}, {
+	"Name": "Lunar Iron Sword",
+	"Rating": 7
+}, {
+	"Name": "Lunar Iron War Axe",
+	"Rating": 8
+}, {
+	"Name": "Lunar Iron War Axe",
+	"Rating": 8
+}, {
+	"Name": "Lunar Iron War Axe",
+	"Rating": 8
+}, {
+	"Name": "Lunar Steel Mace",
+	"Rating": 10
+}, {
+	"Name": "Lunar Steel Mace",
+	"Rating": 10
+}, {
+	"Name": "Lunar Steel Mace",
+	"Rating": 10
+}, {
+	"Name": "Lunar Steel Sword",
+	"Rating": 8
+}, {
+	"Name": "Lunar Steel Sword",
+	"Rating": 8
+}, {
+	"Name": "Lunar Steel Sword",
+	"Rating": 8
+}, {
+	"Name": "Lunar Steel War Axe",
+	"Rating": 9
+}, {
+	"Name": "Lunar Steel War Axe",
+	"Rating": 9
+}, {
+	"Name": "Lunar Steel War Axe",
+	"Rating": 9
+}, {
+	"Name": "Mace of Molag Bal ",
+	"Rating": 16
+}, {
+	"Name": "Mehrunes' Razor ",
+	"Rating": 11
+}, {
+	"Name": "Minor Staff of Turning ",
+	"Rating": 0
+}, {
+	"Name": "Necromantic Staff ",
+	"Rating": 17
+}, {
+	"Name": "Nightingale Blade",
+	"Rating": 10
+}, {
+	"Name": "Nightingale Blade",
+	"Rating": 11
+}, {
+	"Name": "Nightingale Blade",
+	"Rating": 12
+}, {
+	"Name": "Nightingale Blade",
+	"Rating": 13
+}, {
+	"Name": "Nightingale Blade",
+	"Rating": 14
+}, {
+	"Name": "Nightingale Bow",
+	"Rating": 12
+}, {
+	"Name": "Nightingale Bow",
+	"Rating": 13
+}, {
+	"Name": "Nightingale Bow",
+	"Rating": 15
+}, {
+	"Name": "Nightingale Bow",
+	"Rating": 17
+}, {
+	"Name": "Nightingale Bow",
+	"Rating": 19
+}, {
+	"Name": "Nord Hero Battle Axe ",
+	"Rating": 21
+}, {
+	"Name": "Nord Hero Bow ",
+	"Rating": 11
+}, {
+	"Name": "Nord Hero Greatsword ",
+	"Rating": 20
+}, {
+	"Name": "Nord Hero Sword ",
+	"Rating": 11
+}, {
+	"Name": "Nord Hero War Axe ",
+	"Rating": 12
+}, {
+	"Name": "Notched Pickaxe ",
+	"Rating": 5
+}, {
+	"Name": "Okin ",
+	"Rating": 12
+}, {
+	"Name": "Orcish Battleaxe",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Absorption ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Animus ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Arcing ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Binding ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Burning ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Consuming ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Cowardice ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Debilitation ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Depleting ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Despair ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Devouring ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Diminishing ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Draining ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Fear ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Fire ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Freezing ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Frost ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Gleaning ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Harrowing ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Harvesting ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Ice ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Reaping ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Scorching ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Shocks ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Siphoning ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Soul Snares ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Thunderbolts ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Torpor ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Weariness ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Battleaxe of Winnowing ",
+	"Rating": 19
+}, {
+	"Name": "Orcish Bow ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Animus ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Arcing ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Binding ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Burning ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Cowardice ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Debilitation ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Depleting ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Despair ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Diminishing ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Draining ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Fear ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Flames ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Freezing ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Frost ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Ice ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Scorching ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Shocks ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Soul Snares ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Thunderbolts ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Torpor ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Bow of Weariness ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Dagger ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Absorption ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Animus ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Arcing ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Binding ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Burning ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Consuming ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Cowardice ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Debilitation ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Depleting ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Despair ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Devouring ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Diminishing ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Draining ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Fear ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Flames ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Freezing ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Frost ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Gleaning ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Harrowing ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Harvesting ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Ice ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Reaping ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Scorching ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Shocks ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Siphoning ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Soul Snares ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Thunderbolts ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Torpor ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Weariness ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Dagger of Winnowing ",
+	"Rating": 6
+}, {
+	"Name": "Orcish Greatsword ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Absorption ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Animus ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Arcing ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Binding ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Burning ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Consuming ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Cowardice ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Debilitation ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Depleting ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Despair ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Devouring ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Diminishing ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Draining ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Fear ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Flames ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Freezing ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Frost ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Gleaning ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Harrowing ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Harvesting ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Ice ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Reaping ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Scorching ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Shocks ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Siphoning ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Soul Snares ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Thunderbolts ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Torpor ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Weariness ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Greatsword of Winnowing ",
+	"Rating": 18
+}, {
+	"Name": "Orcish Mace ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Absorption ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Animus ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Arcing ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Binding ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Burning ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Consuming ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Cowardice ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Debilitation ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Depleting ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Despair ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Devouring ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Diminishing ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Draining ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Fear ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Flames ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Freezing ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Frost ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Gleaning ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Harrowing ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Harvesting ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Ice ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Reaping ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Scorching ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Shocks ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Siphoning ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Soul Snares ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Thunderbolts ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Torpor ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Weariness ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Mace of Winnowing ",
+	"Rating": 11
+}, {
+	"Name": "Orcish Sword ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Absorption ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Animus ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Arcing ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Binding ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Burning ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Consuming ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Cowardice ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Debilitation ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Depleting ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Despair ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Devouring ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Diminishing ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Draining ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Fear ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Flames ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Freezing ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Frost ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Gleaning ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Harrowing ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Harvesting ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Ice ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Reaping ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Scorching ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Shocks ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Siphoning ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Soul Snares ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Thunderbolts ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Torpor ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Weariness ",
+	"Rating": 9
+}, {
+	"Name": "Orcish Sword of Winnowing ",
+	"Rating": 9
+}, {
+	"Name": "Orcish War Axe ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Absorption ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Animus ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Arcing ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Binding ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Burning ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Consuming ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Cowardice ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Debilitation ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Depleting ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Despair ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Devouring ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Diminishing ",
+	"Rating": 8
+}, {
+	"Name": "Orcish War Axe of Draining ",
+	"Rating": 8
+}, {
+	"Name": "Orcish War Axe of Fear ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Flames ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Freezing ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Frost ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Gleaning ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Harrowing ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Harvesting ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Ice ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Reaping ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Scorching ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Shocks ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Siphoning ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Soul Snares ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Thunderbolts ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Torpor ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Weariness ",
+	"Rating": 10
+}, {
+	"Name": "Orcish War Axe of Winnowing ",
+	"Rating": 10
+}, {
+	"Name": "Orcish Warhammer ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Absorption ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Animus ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Arcing ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Binding ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Burning ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Consuming ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Cowardice ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Debilitation ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Depleting ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Despair ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Devouring ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Diminishing ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Draining ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Fear ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Flames ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Freezing ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Frost ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Gleaning ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Harrowing ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Harvesting ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Ice ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Reaping ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Scorching ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Shocks ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Siphoning ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Soul Snares ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Thunderbolts ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Torpor ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Weariness ",
+	"Rating": 21
+}, {
+	"Name": "Orcish Warhammer of Winnowing ",
+	"Rating": 21
+}, {
+	"Name": "Pickaxe ",
+	"Rating": 5
+}, {
+	"Name": "Poacher's Axe ",
+	"Rating": 5
+}, {
+	"Name": "Red Eagle's Bane ",
+	"Rating": 11
+}, {
+	"Name": "Restoration Staff ",
+	"Rating": 0
+}, {
+	"Name": "Reverent Dwarven Battleaxe ",
+	"Rating": 20
+}, {
+	"Name": "Reverent Dwarven Bow ",
+	"Rating": 12
+}, {
+	"Name": "Reverent Dwarven Dagger ",
+	"Rating": 7
+}, {
+	"Name": "Reverent Dwarven Greatsword ",
+	"Rating": 19
+}, {
+	"Name": "Reverent Dwarven Mace ",
+	"Rating": 12
+}, {
+	"Name": "Reverent Dwarven Sword ",
+	"Rating": 10
+}, {
+	"Name": "Reverent Dwarven War Axe ",
+	"Rating": 11
+}, {
+	"Name": "Reverent Dwarven Warhammer ",
+	"Rating": 22
+}, {
+	"Name": "Reverent Elven Battleaxe ",
+	"Rating": 21
+}, {
+	"Name": "Reverent Elven Bow ",
+	"Rating": 13
+}, {
+	"Name": "Reverent Elven Dagger ",
+	"Rating": 8
+}, {
+	"Name": "Reverent Elven Greatsword ",
+	"Rating": 20
+}, {
+	"Name": "Reverent Elven Mace ",
+	"Rating": 13
+}, {
+	"Name": "Reverent Elven Sword ",
+	"Rating": 11
+}, {
+	"Name": "Reverent Elven War Axe ",
+	"Rating": 12
+}, {
+	"Name": "Reverent Elven Warhammer ",
+	"Rating": 23
+}, {
+	"Name": "Reverent Glass Battleaxe ",
+	"Rating": 22
+}, {
+	"Name": "Reverent Glass Bow ",
+	"Rating": 15
+}, {
+	"Name": "Reverent Glass Dagger ",
+	"Rating": 9
+}, {
+	"Name": "Reverent Glass Greatsword ",
+	"Rating": 21
+}, {
+	"Name": "Reverent Glass Mace ",
+	"Rating": 14
+}, {
+	"Name": "Reverent Glass Sword ",
+	"Rating": 12
+}, {
+	"Name": "Reverent Glass War Axe ",
+	"Rating": 13
+}, {
+	"Name": "Reverent Glass Warhammer ",
+	"Rating": 24
+}, {
+	"Name": "Reverent Hunting Bow ",
+	"Rating": 7
+}, {
+	"Name": "Reverent Imperial Bow ",
+	"Rating": 9
+}, {
+	"Name": "Reverent Imperial Sword ",
+	"Rating": 8
+}, {
+	"Name": "Reverent Iron Battleaxe ",
+	"Rating": 16
+}, {
+	"Name": "Reverent Iron Dagger ",
+	"Rating": 4
+}, {
+	"Name": "Reverent Iron Greatsword ",
+	"Rating": 15
+}, {
+	"Name": "Reverent Iron Mace ",
+	"Rating": 9
+}, {
+	"Name": "Reverent Iron Sword ",
+	"Rating": 7
+}, {
+	"Name": "Reverent Iron War Axe ",
+	"Rating": 8
+}, {
+	"Name": "Reverent Iron Warhammer ",
+	"Rating": 18
+}, {
+	"Name": "Reverent Orcish Battleaxe ",
+	"Rating": 19
+}, {
+	"Name": "Reverent Orcish Bow ",
+	"Rating": 10
+}, {
+	"Name": "Reverent Orcish Dagger ",
+	"Rating": 6
+}, {
+	"Name": "Reverent Orcish Greatsword ",
+	"Rating": 18
+}, {
+	"Name": "Reverent Orcish Mace ",
+	"Rating": 11
+}, {
+	"Name": "Reverent Orcish Sword ",
+	"Rating": 9
+}, {
+	"Name": "Reverent Orcish War Axe ",
+	"Rating": 10
+}, {
+	"Name": "Reverent Orcish Warhammer ",
+	"Rating": 21
+}, {
+	"Name": "Reverent Steel Battleaxe ",
+	"Rating": 18
+}, {
+	"Name": "Reverent Steel Dagger ",
+	"Rating": 5
+}, {
+	"Name": "Reverent Steel Greatsword ",
+	"Rating": 17
+}, {
+	"Name": "Reverent Steel Mace ",
+	"Rating": 10
+}, {
+	"Name": "Reverent Steel Sword ",
+	"Rating": 8
+}, {
+	"Name": "Reverent Steel War Axe ",
+	"Rating": 9
+}, {
+	"Name": "Reverent Steel Warhammer ",
+	"Rating": 20
+}, {
+	"Name": "Sanctified Dwarven Battleaxe ",
+	"Rating": 20
+}, {
+	"Name": "Sanctified Dwarven Bow ",
+	"Rating": 12
+}, {
+	"Name": "Sanctified Dwarven Dagger ",
+	"Rating": 7
+}, {
+	"Name": "Sanctified Dwarven Greatsword ",
+	"Rating": 19
+}, {
+	"Name": "Sanctified Dwarven Mace ",
+	"Rating": 12
+}, {
+	"Name": "Sanctified Dwarven Sword ",
+	"Rating": 10
+}, {
+	"Name": "Sanctified Dwarven War Axe ",
+	"Rating": 11
+}, {
+	"Name": "Sanctified Dwarven Warhammer ",
+	"Rating": 22
+}, {
+	"Name": "Sanctified Hunting Bow ",
+	"Rating": 7
+}, {
+	"Name": "Sanctified Imperial Bow ",
+	"Rating": 9
+}, {
+	"Name": "Sanctified Imperial Sword ",
+	"Rating": 8
+}, {
+	"Name": "Sanctified Iron Battleaxe ",
+	"Rating": 16
+}, {
+	"Name": "Sanctified Iron Dagger ",
+	"Rating": 4
+}, {
+	"Name": "Sanctified Iron Greatsword ",
+	"Rating": 15
+}, {
+	"Name": "Sanctified Iron Mace ",
+	"Rating": 9
+}, {
+	"Name": "Sanctified Iron Sword ",
+	"Rating": 7
+}, {
+	"Name": "Sanctified Iron War Axe ",
+	"Rating": 8
+}, {
+	"Name": "Sanctified Iron Warhammer ",
+	"Rating": 18
+}, {
+	"Name": "Sanctified Orcish Battleaxe ",
+	"Rating": 19
+}, {
+	"Name": "Sanctified Orcish Bow ",
+	"Rating": 10
+}, {
+	"Name": "Sanctified Orcish Dagger ",
+	"Rating": 6
+}, {
+	"Name": "Sanctified Orcish Greatsword ",
+	"Rating": 18
+}, {
+	"Name": "Sanctified Orcish Mace ",
+	"Rating": 11
+}, {
+	"Name": "Sanctified Orcish Sword ",
+	"Rating": 9
+}, {
+	"Name": "Sanctified Orcish War Axe ",
+	"Rating": 10
+}, {
+	"Name": "Sanctified Orcish Warhammer ",
+	"Rating": 21
+}, {
+	"Name": "Sanctified Steel Battleaxe ",
+	"Rating": 18
+}, {
+	"Name": "Sanctified Steel Dagger ",
+	"Rating": 5
+}, {
+	"Name": "Sanctified Steel Greatsword ",
+	"Rating": 17
+}, {
+	"Name": "Sanctified Steel Mace ",
+	"Rating": 10
+}, {
+	"Name": "Sanctified Steel Sword ",
+	"Rating": 8
+}, {
+	"Name": "Sanctified Steel War Axe ",
+	"Rating": 9
+}, {
+	"Name": "Sanctified Steel Warhammer ",
+	"Rating": 20
+}, {
+	"Name": "Sanguine Rose ",
+	"Rating": 0
+}, {
+	"Name": "Sild's Staff ",
+	"Rating": 17
+}, {
+	"Name": "Silver Greatsword ",
+	"Rating": 17
+}, {
+	"Name": "Silver Sword ",
+	"Rating": 8
+}, {
+	"Name": "Skull of Corruption ",
+	"Rating": 2
+}, {
+	"Name": "Skyforge Steel Battleaxe ",
+	"Rating": 21
+}, {
+	"Name": "Skyforge Steel Dagger ",
+	"Rating": 8
+}, {
+	"Name": "Skyforge Steel Greatsword ",
+	"Rating": 20
+}, {
+	"Name": "Skyforge Steel Sword ",
+	"Rating": 11
+}, {
+	"Name": "Skyforge Steel War Axe ",
+	"Rating": 12
+}, {
+	"Name": "Spider Control Rod ",
+	"Rating": 1
+}, {
+	"Name": "Spider Control Rod ",
+	"Rating": 1
+}, {
+	"Name": "Staff of Arcane Authority ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Banishing ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Calm ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Chain Lightning ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Courage ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Daedric Command ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Dread Zombies ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Expulsion ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Fear ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Fireballs ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Firebolts ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Flames ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Frenzy ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Frostbite ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Fury ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Hag's Wrath ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Ice Spikes ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Ice Storms ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Icy Spear ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Incineration ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Inspiration ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Jyrik Gauldurson ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Lightning Bolts ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Magelight ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Magnus ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Mending ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Paralysis ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Reanimation ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Repulsion ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Revenants ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Soul Trapping ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Sparks ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Tandil ",
+	"Rating": 0
+}, {
+	"Name": "Staff of the Familiar ",
+	"Rating": 0
+}, {
+	"Name": "Staff of the Flame Atronach ",
+	"Rating": 0
+}, {
+	"Name": "Staff of the Flame Wall ",
+	"Rating": 0
+}, {
+	"Name": "Staff of the Frost Atronach ",
+	"Rating": 0
+}, {
+	"Name": "Staff of the Frost Wall ",
+	"Rating": 0
+}, {
+	"Name": "Staff of the Healing Hand ",
+	"Rating": 0
+}, {
+	"Name": "Staff of the Storm Atronach ",
+	"Rating": 0
+}, {
+	"Name": "Staff of the Storm Wall ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Thunderbolts ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Turning ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Vanquishment ",
+	"Rating": 0
+}, {
+	"Name": "Staff of Zombies ",
+	"Rating": 0
+}, {
+	"Name": "Steel Battleaxe ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Arcing ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Binding ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Burning ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Chills ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Cowardice ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Diminishing ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Dismay ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Draining ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Embers ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Fatigue ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Fear ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Fiery Souls ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Frost ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Ice ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Sapping ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Scorching ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Shocks ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Soul Snares ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Souls ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Sparks ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Torpor ",
+	"Rating": 18
+}, {
+	"Name": "Steel Battleaxe of Weariness ",
+	"Rating": 18
+}, {
+	"Name": "Steel Dagger ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Arcing ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Binding ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Burning ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Chills ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Cowardice ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Diminishing ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Dismay ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Draining ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Embers ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Fatigue ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Fear ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Frost ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Ice ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Sapping ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Scorching ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Shocks ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Soul Snares ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Souls ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Sparks ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Torpor ",
+	"Rating": 5
+}, {
+	"Name": "Steel Dagger of Weariness ",
+	"Rating": 5
+}, {
+	"Name": "Steel Greatsword ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Arcing ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Binding ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Burning ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Chills ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Cowardice ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Diminishing ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Dismay ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Draining ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Embers ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Fatigue ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Fear ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Frost ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Ice ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Sapping ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Scorching ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Scorching ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Shocks ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Soul Snares ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Souls ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Sparks ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Torpor ",
+	"Rating": 17
+}, {
+	"Name": "Steel Greatsword of Weariness ",
+	"Rating": 17
+}, {
+	"Name": "Steel Mace ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Arcing ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Binding ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Burning ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Cold ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Cowardice ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Diminishing ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Dismay ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Draining ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Embers ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Fatigue ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Fear ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Frost ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Ice ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Sapping ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Scorching ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Shocks ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Soul Snares ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Souls ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Sparks ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Torpor ",
+	"Rating": 10
+}, {
+	"Name": "Steel Mace of Weariness ",
+	"Rating": 10
+}, {
+	"Name": "Steel Sword ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Arcing ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Binding ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Burning ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Cold ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Cowardice ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Diminishing ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Dismay ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Draining ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Embers ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Fatigue ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Fear ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Frost ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Ice ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Sapping ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Scorching ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Shocks ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Soul Snares ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Souls ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Sparks ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Torpor ",
+	"Rating": 8
+}, {
+	"Name": "Steel Sword of Weariness ",
+	"Rating": 8
+}, {
+	"Name": "Steel War Axe ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Arcing ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Binding ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Burning ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Cold ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Cowardice ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Diminishing ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Dismay ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Draining ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Embers ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Fatigue ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Fear ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Frost ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Ice ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Sapping ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Scorching ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Shocks ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Soul Snares ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Souls ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Sparks ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Torpor ",
+	"Rating": 9
+}, {
+	"Name": "Steel War Axe of Weariness ",
+	"Rating": 9
+}, {
+	"Name": "Steel Warhammer ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Arcing ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Binding ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Burning ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Chills ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Cowardice ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Diminishing ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Dismay ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Draining ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Embers ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Fatigue ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Fear ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Frost ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Ice ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Sapping ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Scorching ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Shocks ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Soul Snares ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Souls ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Sparks ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Torpor ",
+	"Rating": 20
+}, {
+	"Name": "Steel Warhammer of Weariness ",
+	"Rating": 20
+}, {
+	"Name": "The Pale Blade",
+	"Rating": 8
+}, {
+	"Name": "The Pale Blade",
+	"Rating": 8
+}, {
+	"Name": "The Pale Blade",
+	"Rating": 8
+}, {
+	"Name": "The Pale Blade",
+	"Rating": 11
+}, {
+	"Name": "The Pale Blade",
+	"Rating": 11
+}, {
+	"Name": "Trollsbane ",
+	"Rating": 20
+}, {
+	"Name": "Tsun's Battle Axe",
+	"Rating": 20
+}, {
+	"Name": "Tsun's Battle Axe",
+	"Rating": 22
+}, {
+	"Name": "Tsun's Battle Axe",
+	"Rating": 24
+}, {
+	"Name": "Tsun's Battle Axe",
+	"Rating": 27
+}, {
+	"Name": "Virtuous Daedric Battleaxe ",
+	"Rating": 25
+}, {
+	"Name": "Virtuous Daedric Bow ",
+	"Rating": 19
+}, {
+	"Name": "Virtuous Daedric Dagger ",
+	"Rating": 11
+}, {
+	"Name": "Virtuous Daedric Greatsword ",
+	"Rating": 24
+}, {
+	"Name": "Virtuous Daedric Mace ",
+	"Rating": 16
+}, {
+	"Name": "Virtuous Daedric Sword ",
+	"Rating": 14
+}, {
+	"Name": "Virtuous Daedric War Axe ",
+	"Rating": 15
+}, {
+	"Name": "Virtuous Daedric Warhammer ",
+	"Rating": 27
+}, {
+	"Name": "Virtuous Ebony Battleaxe ",
+	"Rating": 23
+}, {
+	"Name": "Virtuous Ebony Bow ",
+	"Rating": 17
+}, {
+	"Name": "Virtuous Ebony Dagger ",
+	"Rating": 10
+}, {
+	"Name": "Virtuous Ebony Greatsword ",
+	"Rating": 22
+}, {
+	"Name": "Virtuous Ebony Mace ",
+	"Rating": 16
+}, {
+	"Name": "Virtuous Ebony Sword ",
+	"Rating": 13
+}, {
+	"Name": "Virtuous Ebony War Axe ",
+	"Rating": 15
+}, {
+	"Name": "Virtuous Ebony Warhammer ",
+	"Rating": 25
+}, {
+	"Name": "Virtuous Elven Battleaxe ",
+	"Rating": 21
+}, {
+	"Name": "Virtuous Elven Bow ",
+	"Rating": 13
+}, {
+	"Name": "Virtuous Elven Dagger ",
+	"Rating": 8
+}, {
+	"Name": "Virtuous Elven Greatsword ",
+	"Rating": 20
+}, {
+	"Name": "Virtuous Elven Mace ",
+	"Rating": 13
+}, {
+	"Name": "Virtuous Elven Sword ",
+	"Rating": 11
+}, {
+	"Name": "Virtuous Elven War Axe ",
+	"Rating": 12
+}, {
+	"Name": "Virtuous Elven Warhammer ",
+	"Rating": 23
+}, {
+	"Name": "Virtuous Glass Battleaxe ",
+	"Rating": 22
+}, {
+	"Name": "Virtuous Glass Bow ",
+	"Rating": 15
+}, {
+	"Name": "Virtuous Glass Dagger ",
+	"Rating": 9
+}, {
+	"Name": "Virtuous Glass Greatsword ",
+	"Rating": 21
+}, {
+	"Name": "Virtuous Glass Mace ",
+	"Rating": 14
+}, {
+	"Name": "Virtuous Glass Sword ",
+	"Rating": 12
+}, {
+	"Name": "Virtuous Glass War Axe ",
+	"Rating": 13
+}, {
+	"Name": "Virtuous Glass Warhammer ",
+	"Rating": 24
+}, {
+	"Name": "Volendrung ",
+	"Rating": 25
+}, {
+	"Name": "Wabbajack ",
+	"Rating": 27
+}, {
+	"Name": "Windshear ",
+	"Rating": 11
+}, {
+	"Name": "Woodcutter's Axe ",
+	"Rating": 5
+}, {
+	"Name": "Wuuthrad ",
+	"Rating": 25
+}]
