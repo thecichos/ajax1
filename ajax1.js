@@ -8,28 +8,44 @@ function compare(a, b) {
 	return 0;
 }
 
-function type(category, patt) {
+function type(category, patt, typ) {
 	this.category = category;
 	this.patt = patt;
+	this.typ = typ;
 }
 
 
-var iron = new type("iron", /Iron/gi);
-var robe = new type("Robe", /Robe/gi);
-var Daedric = new type("Daedric", /Daedric/gi);
-var glass = new type("glass", /Glass/gi);
-var nord = new type("Nord", /Nord/gi);
-var orc = new type("Orcish", /Orcish/gi);
-var Elven = new type("Elven", /Elven/gi);
-var Dwarven = new type("Dwarven", /Dwarven/gi);
-var Steel = new type("Steel", /Steel/gi);
-var Hide = new type("Hide", /Hide/gi);
-var Leather = new type("Leather", /Leather/gi);
-var Scaled = new type("Scaled", /Scaled/gi);
-var OGuard = new type("Guard", /guard/gi);
-var Dragonplate = new type("Dragonplate", /Dragonplate/gi);
-var Dragonscale = new type("Dragonscale", /Dragonscale/gi);
+var iron = new type("iron", /Iron/gi, "both");
+var robe = new type("Robe", /Robe/gi, "armor");
+var Daedric = new type("Daedric", /Daedric/gi, "both");
+var glass = new type("glass", /Glass/gi, "both");
+var nord = new type("Nord", /Nord/gi, "both");
+var orc = new type("Orcish", /Orcish/gi, "both");
+var Elven = new type("Elven", /Elven/gi, "both");
+var Dwarven = new type("Dwarven", /Dwarven/gi, "both");
+var Steel = new type("Steel", /Steel/gi, "both");
+var Hide = new type("Hide", /Hide/gi, "armor");
+var Leather = new type("Leather", /Leather/gi, "armor");
+var Scaled = new type("Scaled", /Scaled/gi, "armor");
+var OGuard = new type("Guard", /guard/gi, "armor");
+var Dragonplate = new type("Dragonplate", /Dragonplate/gi, "armor");
+var Dragonscale = new type("Dragonscale", /Dragonscale/gi, "armor");
 var patterns = [robe, iron, Daedric, glass, nord, orc, Elven, Dwarven, Steel, Hide, Leather, Scaled, OGuard, Dragonplate, Dragonscale];
+
+function fillItems(typ, arr) {
+	for (var i = 0; i < arr.length; i++) {
+		if (typ == "Weapons") {
+			if (arr[i].typ == "both") {
+				$('#typeW').append('<option value="' + arr[i].category + '">' + arr[i].category + '</option>')
+			}
+		} else if (typ == "Armors") {
+			if (arr[i].typ == "both" || arr[i].typ == "armor") {
+				$('#typeA').append('<option value="' + arr[i].category + '">' + arr[i].category + '</option>')
+			}
+		}
+	}
+}
+
 
 function ench(category, patt) {
 	this.category = category;
@@ -41,8 +57,36 @@ var Alteration = new ench("Alteration", /Alteration/gi);
 var Conjuration = new ench("Conjuration", /Conjuration/gi);
 var Illusion = new ench("Illusion", /Illusion/gi);
 var Restoration = new ench("Restoration", /Restoration/gi);
+var none = new ench("none", /of/gi);
 
-var ench = [Destruction, Alteration, Conjuration, Illusion, Restoration];
+var ench = [Destruction, Alteration, Conjuration, Illusion, Restoration, none];
+
+function test(arr) {
+	for (var i = 0; i < arr.length; i++) {
+		if (arr[i].Name.match(ench[0].patt) != ench[0].category && arr[i].Name.match(ench[1].patt) != ench[1].category && arr[i].Name.match(ench[2].patt) != ench[2].category && arr[i].Name.match(ench[3].patt) != ench[3].category && arr[i].Name.match(ench[4].patt) != ench[4].category) {
+			var row = "";
+			row = '<tr><td>' + arr[i].Name + '</td><td>' + arr[i].Rating + '</td></tr>';
+			$('#table').append(row);
+		}
+	}
+}
+
+// function fillW(arr) {
+// 	arr.sort(compare);
+// 	var x = 0
+// 	for (var i = 0; i < arr.length; i++) {
+// 		for (x; x < patterns.length; x++) {
+// 			if (document.getElementById('typeW').value == patterns[x].category) {
+// 				break;
+// 			}
+// 		}
+// 		if (arr[i].Name.match(patterns[x].patt) == patterns[x].category || arr[i].Name.search(patterns[x].patt) != null && arr[i].Name.search(patterns[x].patt) >= 0) {
+// 			var row = "";
+// 			row = '<tr><td>' + arr[i].Name + '</td><td>' + arr[i].Rating + '</td></tr>';
+// 			$('#table').append(row);
+// 		}
+// 	}
+// }
 
 function fillW(arr) {
 	arr.sort(compare);
@@ -53,7 +97,7 @@ function fillW(arr) {
 				break;
 			}
 		}
-		if (arr[i].Name.match(patterns[x].patt) == patterns[x].category || arr[i].Name.search(patterns[x].patt) != null && arr[i].Name.search(patterns[x].patt) >= 0 ) {
+		if (arr[i].Name.match(patterns[x].patt) == patterns[x].category || arr[i].Name.search(patterns[x].patt) != null && arr[i].Name.search(patterns[x].patt) >= 0) {
 			var row = "";
 			row = '<tr><td>' + arr[i].Name + '</td><td>' + arr[i].Rating + '</td></tr>';
 			$('#table').append(row);
@@ -72,19 +116,29 @@ function fillA(arr) {
 			}
 		}
 		if (arr[i].Name.match(patterns[x].patt) == patterns[x].category || arr[i].Name.search(patterns[x].patt) != null && arr[i].Name.search(patterns[x].patt) >= 0) {
-			for (var y = 0; y < ench.length; y++) {
+			for (0; y < ench.length; y++) {
 				if (document.getElementById('encha').value == ench[y].category) {
 					break;
 				}
 			}
-			if (arr[i].Name.match(ench[y].patt) == ench[y].category || arr[i].Name.search(ench[y].patt) != null && arr[i].Name.search(ench[y].patt) >= 0) {
-				var row = "";
-				row = '<tr><td>' + arr[i].Name + '</td><td>' + arr[i].Rating + '</td></tr>';
-				$('#table').append(row);
+			if (document.getElementById('encha').value != "none") {
+				if (arr[i].Name.match(ench[y].patt) == ench[y].category || arr[i].Name.search(ench[y].patt) != null && arr[i].Name.search(ench[y].patt) >= 0) {
+					var row = "";
+					row = '<tr><td>' + arr[i].Name + '</td><td>' + arr[i].Rating + '</td></tr>';
+					$('#table').append(row);
+				}
+			} else if (document.getElementById('encha').value == "none") {
+				if (arr[i].Name.search(/of/gi) === -1) {
+					var row = "";
+					row = '<tr><td>' + arr[i].Name + '</td><td>' + arr[i].Rating + '</td></tr>';
+					$('#table').append(row);
+				}
 			}
 		}
 	}
+
 }
+
 var oReq = new XMLHttpRequest();
 var url;
 var ratings = [];
